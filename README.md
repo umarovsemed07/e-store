@@ -27,6 +27,6 @@ Hamid Babayev
 Data Analyst | Google ads manager
 GitHub: (https://github.com/umarovsemed07)
 Example: [Dashboard preview]
-(https://github.com/umarovsemed07/e-store/blob/main/Screenshot%202026-02-21%20171542.png)
-(https://github.com/umarovsemed07/e-store/blob/main/Screenshot%202026-02-21%20171602.png)
-(https://github.com/umarovsemed07/e-store/blob/main/Screenshot%202026-02-21%20171612.png)
+1-(https://github.com/umarovsemed07/e-store/blob/main/Screenshot%202026-02-21%20171542.png)
+2-(https://github.com/umarovsemed07/e-store/blob/main/Screenshot%202026-02-21%20171602.png)
+3-(https://github.com/umarovsemed07/e-store/blob/main/Screenshot%202026-02-21%20171612.png)
