@@ -23,7 +23,7 @@ Open the e-store.pbix file using Power BI Desktop.
 Interact with the visuals using the provided slicers and filters.
 
 Author
-Hamid Babayev
+Samad Umarov
 Data Analyst | Google ads manager
 GitHub: (https://github.com/umarovsemed07)
 Example: [Dashboard preview]
